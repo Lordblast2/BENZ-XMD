@@ -135,7 +135,7 @@
 > Never miss updates, feature drops, or guides!
 
 - 📢 **WhatsApp Channel**  
-  [![Join WhatsApp](https://img.shields.io/badge/Join%20WhatsApp-Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://whatsapp.com/channel/0029Vb5qc6N2Jl8EcVBv0t)
+  [![Join WhatsApp](https://img.shields.io/badge/Join%20WhatsApp-Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://whatsapp.com/channel/0029Vb5qc6N2Jl8E3EcVBv0t)
 
 - ▶️ **YouTube: KingElvis3**  
   [![Subscribe YouTube](https://img.shields.io/badge/Subscribe-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@Xchristech)

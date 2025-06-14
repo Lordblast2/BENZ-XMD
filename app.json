@@ -1,0 +1,33 @@
+{                                                                     
+
+  "name": "BENZ-XMD",                                           
+
+  "description": "WhatsApp bot.",                                       
+
+  "repository": "https://github.com/lordblast2/BENZ-XMD",                                                                     
+
+  "logo": "https://files.catbox.moe/1wly4m.png",           
+
+  "keywords": ["nodejs", "lordblast2", "multi device"],                                               
+
+  "buildpacks": [                                                     
+
+    {                                                                   
+
+      "url": "heroku/nodejs"                                        
+
+    },                                                                
+
+    {                                                                   
+
+      "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"                                                            
+
+    },                                                                
+
+    {                                                                   
+
+      "url": "https://github.com/clhuang/heroku-buildpack-webp-binaries.git"                                                                  
+
+    }                                                            
+
+  ]                                                            
